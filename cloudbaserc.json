@@ -1,0 +1,13 @@
+{
+  "version": "2.0",
+  "envId": "snzwj-d0g97iag0a11e462f",
+  "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
+  "app": {
+    "serviceName": "taodian-cn",
+    "framework": "vite",
+    "installCommand": "npm install",
+    "buildCommand": "npm run build",
+    "outputDir": "dist/client",
+    "deployPath": "/"
+  }
+}
